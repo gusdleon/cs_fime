@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/white_plaster_02_diff_4k"
+	$bumpmap "blender/textures/white_plaster_02_nor_4k"
+	$surfaceprop Concrete
+}

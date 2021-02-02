@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/metal_rojo"
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.62 0 0]"
+
+	$color "[1 0 0]"
+}

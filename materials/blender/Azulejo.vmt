@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/Azulejo_col"
+
+	$basetexturetransform "center 0.5 0.6 scale 1 1 rotate 0 translate 0 0"
+}

@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/Concrete17_col"
+	$bumpmap "blender/textures/Concrete17_nrm"
+	$surfaceprop Concrete
+
+	$phong 1
+	$phongexponenttexture "blender/textures/Concrete17_rgh"
+	$phongfresnelranges "[0.5 0.75 1]"
+}

@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	$basetexture "blender/textures/Marble02_col"
+	$bumpmap "blender/textures/Marble02_nrm"
+	$surfaceprop Concrete
+
+	$phong 1
+	$phongexponent 5
+	$phongamount "[1 1 1 1]"
+
+	$color "[0 1 0]"
+}

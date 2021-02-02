@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	$basetexture "blender/textures/tiles-diff"
+	$bumpmap "blender/textures/tiles-norm"
+	$surfaceprop Concrete
+
+	$phong 1
+	$phongexponent 5
+	$phongamount "[1 1 1 1]"
+
+	$basetexturetransform "center 0.5 0.5 scale 12 12 rotate 0 translate 0 0"
+}

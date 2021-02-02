@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture "blender/textures/concrete1"
+	$bumpmap "blender/textures/concrete1_disp"
+	$surfaceprop Concrete
+}

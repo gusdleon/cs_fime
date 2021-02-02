@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$surfaceprop Plastic
+
+	$color "[0.30 0.30 0.30]"
+}

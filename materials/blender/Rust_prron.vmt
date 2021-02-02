@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/rust02_col"
+	$bumpmap "blender/textures/rust02_nrm"
+	$surfaceprop Concrete
+
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+	$envmaptint "[0.70 0.70 0.70]"
+	$envmapfresnel 1
+
+	$phong 1
+	$phongexponenttexture "blender/textures/Rust02_rgh"
+	$phongfresnelranges "[0 0.37 3]"
+	$phongalbedotint 1
+	$phongboost 0
+	$phongalbedoboost 0
+}

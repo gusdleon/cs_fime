@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	$basetexture "blender/textures/Concrete17_col"
+	$bumpmap "blender/textures/Concrete17_nrm"
+	$surfaceprop Concrete
+
+	$phong 1
+	$phongexponent 5
+	$phongamount "[1 1 1 1]"
+}

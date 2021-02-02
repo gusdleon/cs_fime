@@ -1,0 +1,17 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/Oso_Color"
+	$bumpmap "blender/textures/Oso_Normal"
+	$surfaceprop Solidmetal
+
+	$envmap "env_cubemap"
+	$basealphaenvmapmask 1
+	$envmaptint "[0.70 0.70 0.70]"
+	$envmapfresnel 1
+
+	$phong 1
+	$phongexponenttexture "blender/textures/Oso_Roug"
+	$phongfresnelranges "[0 0.37 3]"
+	$phongboost 0
+	$phongalbedoboost 0
+}

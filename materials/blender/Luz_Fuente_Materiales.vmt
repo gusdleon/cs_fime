@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$selfillum 1
+	$selfillum_envmapmask_alpha 1
+}
