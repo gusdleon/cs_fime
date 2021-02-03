@@ -1,9 +1,6 @@
 /*
 !.gitignore
-
-!/maps/
-/maps/*
-!maps/cs_fime*.*
+!README.md
 
 !/mapsrc/
 
@@ -18,3 +15,4 @@ models/tools/*
 
 !/modelsrc/
 *.log
+*.bsp
