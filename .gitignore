@@ -16,3 +16,4 @@ models/tools/*
 !/modelsrc/
 *.log
 *.bsp
+*.vmx
