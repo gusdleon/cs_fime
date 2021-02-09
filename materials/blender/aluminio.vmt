@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/Metal032_2K_Color"
+	$bumpmap "blender/textures/metal032_2k_normal"
+	$surfaceprop Metal
+	$ssbump 1
+
+	$phong 1
+	$phongexponenttexture "blender/textures/metal032_2k_metalness"
+	$phongfresnelranges "[0.5 0.75 1]"
+	$halflambert 1
+}
