@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/numero_edificio_22"
+	$surfaceprop Plastic
+}
