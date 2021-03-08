@@ -18,3 +18,4 @@ models/tools/*
 *.bsp
 *.vmx
 *.prt
+*hdr.pwl.vtf

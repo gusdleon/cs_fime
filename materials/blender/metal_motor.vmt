@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/metal18_col"
+	$bumpmap "blender/textures/metal18_nrm"
+	$surfaceprop Metal
+
+	$phong 1
+	$phongexponenttexture "blender/textures/metal18_met"
+	$phongfresnelranges "[0.75 0.88 1]"
+}
