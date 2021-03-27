@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/escultura_juego_edificio_4_col"
+	$bumpmap "blender/textures/escultura_juego_edificio_4_nrm"
+	$surfaceprop Metal
+	$ssbump 1
+
+	$phong 1
+	$phongexponenttexture "blender/textures/escultura_juego_edificio_4_rg"
+	$phongfresnelranges "[0.5 0.75 1]"
+}
