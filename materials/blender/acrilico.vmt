@@ -1,11 +1,14 @@
 Refract
 {
 	$envmap "env_cubemap"
+	$envmaptint "[0.50 0.50 0.50]"
+	$envmapcontrast 0.57
+	$envmapsaturation 0
+	$fresnelreflection 0.56
 
 	$refract 1
 	$normalmap "blender/textures/escultura_juego_edificio_4_nrm"
-	$refracttint "[1 0.81 0.62]"
-	$refractamount 0.03
+	$refractamount 0.06
 	$bluramount 0.9
 
 	$model 1
