@@ -1,0 +1,13 @@
+Refract
+{
+	$surfaceprop Glass
+
+	$envmap "env_cubemap"
+	$envmaptint "[0.40 0.40 0.40]"
+	$envmapsaturation 0.5
+
+	$refract 1
+	$normalmap "blender/textures/letras_edificio_6_nrm"
+
+	$model 1
+}

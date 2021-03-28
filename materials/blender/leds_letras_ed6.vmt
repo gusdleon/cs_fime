@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/letras_edificio_6_col"
+	$bumpmap "blender/textures/letras_edificio_6_nrm"
+	$surfaceprop Plastic
+
+	$phong 1
+	$phongexponenttexture "blender/textures/letras_edificio_6_rog"
+	$phongfresnelranges "[0.5 0.75 1]"
+
+	$selfillum 1
+}
