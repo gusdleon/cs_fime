@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/altavoz_jardin_oso_col"
+	$bumpmap "blender/textures/altavoz_jardin_oso_nrm"
+	$surfaceprop Metal
+}
