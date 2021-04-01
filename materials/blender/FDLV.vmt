@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/FDLV_col"
+	$bumpmap "blender/textures/FDLV_nrm"
+	$surfaceprop Metal
+}
