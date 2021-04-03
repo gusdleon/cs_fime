@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$basetexture "blender/textures/toldo_cafe_col"
+	$bumpmap "blender/textures/toldo_cafe_nrm"
+	$surfaceprop Default
+
+	$alphatest 1
+	$alphatestreference 0.81
+	$nocull 1
+}
