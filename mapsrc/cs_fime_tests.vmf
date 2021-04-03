@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8456"
-	"mapversion" "196"
+	"mapversion" "197"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -104,12 +104,12 @@ viewsettings
 world
 {
 	"id" "1"
-	"mapversion" "196"
+	"mapversion" "197"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
 	"maxpropscreenwidth" "-1"
-	"skyname" "sky_dust"
+	"skyname" "vertigoblue_hdr"
 	solid
 	{
 		"id" "52660"
@@ -27783,15 +27783,15 @@ entity
 {
 	"id" "941"
 	"classname" "env_sun"
-	"angles" "0 43 0"
+	"angles" "0 65 0"
 	"glowDistanceScale" "0.99"
 	"HDRColorScale" "1.0"
 	"material" "sprites/light_glow02_add_noz"
 	"overlaycolor" "0 0 0"
 	"overlaymaterial" "sprites/light_glow02_add_noz"
 	"overlaysize" "-1"
-	"pitch" "-50"
-	"rendercolor" "255 244 215"
+	"pitch" "-72"
+	"rendercolor" "245 241 214"
 	"size" "16"
 	"use_angles" "1"
 	"origin" "-960 -768 512"
@@ -27808,7 +27808,7 @@ entity
 {
 	"id" "972"
 	"classname" "shadow_control"
-	"angles" "0 43 0"
+	"angles" "0 65 0"
 	"color" "128 128 128"
 	"disableallshadows" "0"
 	"distance" "75"
@@ -27826,8 +27826,8 @@ entity
 {
 	"id" "883"
 	"classname" "env_cascade_light"
-	"angles" "0 43 0"
-	"color" "255 244 215 1"
+	"angles" "0 65 0"
+	"color" "245 241 214 1"
 	"maxshadowdistance" "800"
 	"StartDisabled" "0"
 	"uselightenvangles" "1"
@@ -28197,14 +28197,14 @@ entity
 {
 	"id" "37"
 	"classname" "light_environment"
-	"_ambient" "205 219 226 185"
+	"_ambient" "153 190 221 250"
 	"_ambientHDR" "-1 -1 -1 1"
 	"_AmbientScaleHDR" "1"
-	"_light" "255 244 215 520"
+	"_light" "245 241 214 400"
 	"_lightHDR" "-1 -1 -1 1"
 	"_lightscaleHDR" "1"
-	"angles" "0 43 0"
-	"pitch" "-50"
+	"angles" "0 65 0"
+	"pitch" "-72"
 	"SunSpreadAngle" "0"
 	"origin" "-1024 -768 512"
 	editor
